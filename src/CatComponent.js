@@ -1,4 +1,4 @@
-// eslint-disable-next-line
+/* eslint-disable */
 import React, { Component } from 'react';
 
 export default class CatComponent extends Component {
